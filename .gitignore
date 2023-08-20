@@ -1,0 +1,12 @@
+#Code blocks main project file
+*.cbp
+
+#code blocks dependence file
+*.depend
+
+#code blocks layout file
+*.layout
+
+#folders
+*bin/
+*obj/
